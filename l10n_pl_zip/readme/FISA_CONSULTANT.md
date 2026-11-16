@@ -168,6 +168,10 @@ postal code that is not in the list.
 - [ ] A contact imported with the code `04410` and the city *Dzbenin* gets, after the action
       **Poland: set city from ZIP**, the code `04-410`, the city *Dzbenin* and the region
       *mazowieckie (PL)*.
+- [ ] At install, a Polish contact created beforehand with a postal code is linked to its locality: directly on a
+      small database; on a large one, the scheduled action **Poland: link contacts to the city of their ZIP**
+      is active (**Settings → Technical → Scheduled Actions**, developer mode) and deactivates itself when
+      it has finished.
 - [ ] Contacts of other countries stay unchanged after the action.
 - [ ] (With `deltatech_delivery`) in **Carrier Details**, for a delivery to Poland, the postal code
       fills in the region, with no manual lookup.
