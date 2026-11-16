@@ -8,6 +8,7 @@
     "website": "https://www.terrabit.ro",
     "category": "Localization",
     "countries": ["pl"],
+    "images": ["static/description/main_screenshot.png"],
     "license": "LGPL-3",
     "development_status": "Beta",
     "depends": ["base_address_extended"],

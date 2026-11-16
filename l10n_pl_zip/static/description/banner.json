@@ -1,0 +1,10 @@
+{
+  "title": "Poland - City from ZIP",
+  "summary": "City and region from the Polish postal code",
+  "edition": "community",
+  "features": [
+    "Polish localities from GeoNames",
+    "City and region from the postal code",
+    "Bulk link of existing contacts"
+  ]
+}
