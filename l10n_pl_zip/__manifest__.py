@@ -10,6 +10,7 @@
     "countries": ["pl"],
     "images": ["static/description/main_screenshot.png"],
     "license": "LGPL-3",
+    "consultant_sheet": "full",
     "development_status": "Beta",
     "depends": ["base_address_extended"],
     "data": [
