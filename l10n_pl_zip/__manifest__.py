@@ -3,7 +3,7 @@
 {
     "name": "Poland - City from ZIP",
     "summary": "Polish localities with postal code and region, filled in from the postal code",
-    "version": "20.0.1.0.0",
+    "version": "20.0.1.0.1",
     "author": "Terrabit",
     "website": "https://www.terrabit.ro",
     "category": "Localization",
