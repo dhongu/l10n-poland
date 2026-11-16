@@ -6,5 +6,6 @@
     "Polish localities from GeoNames",
     "City and region from the postal code",
     "Bulk link of existing contacts"
-  ]
+  ],
+  "flag": "pl"
 }
